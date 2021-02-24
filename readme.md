@@ -1,7 +1,7 @@
 # Wizualizacja danych
 
 ## Zasady zaliczenia ćwiczeń
-Do uzyskania oceny pozytywnej z ćwiczeń wymagane jest uzyskanie co najmniej 51% punktów z każdego z dwóch pisemnych kolokwiów, które odbędą się orientacyjnie na piątych (studia niestacjonarne) / siódmych (studia stacjonarne) i przedostatnich zajęciach. Ostateczna ocena będzie wystawiona na podstawie sumarycznego wyniku procentowego uzyskanego podczas zaliczeń.
+Do uzyskania oceny pozytywnej z ćwiczeń wymagane jest uzyskanie co najmniej 51% punktów z każdego z dwóch pisemnych kolokwiów, które odbędą się orientacyjnie na piątych (studia niestacjonarne) / siódmych (studia stacjonarne) i przedostatnich zajęciach. Ostateczna ocena będzie wystawiona na podstawie sumarycznego wyniku procentowego uzyskanego podczas zaliczeń. Na ostatnich zajęciach odbędzie się kolokiwum poprawkowe.
 
 Podczas kolokwiów niedopuszczalne są wszelkie prace niesamodzielne oraz plagiaty. Niestosowanie się do tych reguł będzie skutkowało niezaliczeniem ćwiczeń.
 
