@@ -16,3 +16,9 @@ Podczas kolokwiów niedopuszczalne są wszelkie prace niesamodzielne oraz plagia
 
 ## Nieobecności
 Dopuszczalne są maksymalnie dwie nieobecności na zajęciach bez podania przyczyny. Przekroczenie tego limitu będzie skutkowało zgłoszeniem zaistniałej sytuacji do dziekanatu.
+
+## Literatura pomocnicza
+1. Lutz, M., Python. Wprowadzenie. Wydanie V. Wyd. Helion (2020)
+2. McKinney, W., Python w analizie danych. Przetwarzanie danych za pomocą pakietów Pandas i NumPy oraz środowiska IPython. Wydanie II. Wyd. Helion (2018)
+3. Wilke, C., Podstawy wizualizacji danych. Zasady tworzenia atrakcyjnych wykresów. Wyd. Helion (2020)
+4. Grus, J., Data science od podstaw. Analiza danych w Pythonie. Wydanie II. Wyd. Helion (2020)
